@@ -1,0 +1,32 @@
+{
+  "manifest_version”:”1.0.0.0”,
+  "type":"",
+  "meta":{
+    "name":"",
+    "version”:”1.0.0.0”,
+    "minimum-overwolf-version": "0.77.4.0",
+    "author":"",
+    "icon":"",
+    "icon_gray":"",
+    "description":""
+  },
+  "data": {
+    "start_window":"index",
+    "windows":{
+      "index":{
+        "file":"index.html",
+        "transparent”:true,
+        "resizable”:false,
+        "show_in_taskbar": true,
+        "size": {
+          "width": 1600,
+          "height": 900
+        },
+        "start_position": {
+          "Top": 0,
+          "Left": 0
+        }
+      }
+    }
+  }
+}
