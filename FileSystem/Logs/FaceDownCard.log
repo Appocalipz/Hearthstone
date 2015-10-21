@@ -1,0 +1,189 @@
+D 23:43:46.5818437 Card.SetDoNotSort() - card=[id=48 cardId= type=INVALID zone=HAND zonePos=4 player=2] on=True
+D 23:43:46.5868974 Card.SetDoNotSort() - card=[id=68 cardId= type=INVALID zone=HAND zonePos=5 player=2] on=True
+D 23:43:50.1463062 Card.SetDoNotSort() - card=[id=48 cardId= type=INVALID zone=HAND zonePos=4 player=2] on=False
+D 23:43:58.7637376 Card.SetDoNotSort() - card=[id=68 cardId= type=INVALID zone=HAND zonePos=5 player=2] on=False
+D 23:43:58.7697822 Card.SetDoNotSort() - card=[id=68 cardId= type=INVALID zone=HAND zonePos=5 player=2] on=False
+D 23:45:26.1456934 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=68 cardId= type=INVALID zone=HAND zonePos=4 player=2] enable=True
+D 23:45:26.7025662 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=The Coin id=68 zone=PLAY zonePos=4 cardId=GAME_005 player=2] enable=False
+D 23:46:12.7454344 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=47 cardId= type=INVALID zone=HAND zonePos=4 player=2] enable=True
+D 23:46:14.8665564 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Mad Bomber id=47 zone=PLAY zonePos=4 cardId=EX1_082 player=2] enable=False
+D 23:46:43.1307505 Card.SetDoNotSort() - card=[name=Mad Bomber id=47 zone=PLAY zonePos=1 cardId=EX1_082 player=2] on=True
+D 23:46:43.2795913 Card.SetDoNotSort() - card=[name=Mad Bomber id=47 zone=PLAY zonePos=1 cardId=EX1_082 player=2] on=False
+D 23:46:59.1262891 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=56 cardId= type=INVALID zone=HAND zonePos=4 player=2] enable=True
+D 23:46:59.7193050 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=4 cardId=CS2_131 player=2] enable=False
+D 23:47:03.3766349 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=True
+D 23:47:03.5271173 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=False
+D 23:47:30.8939137 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=59 cardId= type=INVALID zone=HAND zonePos=2 player=2] enable=True
+D 23:47:36.6925625 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=True
+D 23:47:36.8437387 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=False
+D 23:47:55.2280870 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=True
+D 23:47:55.3777208 Card.SetDoNotSort() - card=[name=Stormwind Knight id=56 zone=PLAY zonePos=1 cardId=CS2_131 player=2] on=False
+D 23:48:11.7478172 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Polymorph id=59 zone=GRAVEYARD zonePos=0 cardId=CS2_022 player=2] enable=False
+D 23:48:36.0722763 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=41 zone=PLAY zonePos=1 cardId=CS2_179 player=2] on=True
+D 23:48:36.2102935 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=41 zone=PLAY zonePos=1 cardId=CS2_179 player=2] on=False
+D 23:48:46.8751415 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=66 cardId= type=INVALID zone=HAND zonePos=5 player=2] enable=True
+D 23:48:47.9585683 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Arcane Explosion id=66 zone=PLAY zonePos=0 cardId=CS2_025 player=2] enable=False
+D 23:48:49.5249064 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=62 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:48:50.0582941 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=62 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=False
+D 23:49:28.3404588 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=48 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:49:28.9426390 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Water Elemental id=48 zone=PLAY zonePos=3 cardId=CS2_033 player=2] enable=False
+D 23:49:29.5903641 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=39 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:49:29.8744056 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=39 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=False
+D 23:49:37.9905635 Card.SetDoNotSort() - card=[name=Lord of the Arena id=76 zone=PLAY zonePos=1 cardId=CS2_162 player=2] on=True
+D 23:49:38.1419524 Card.SetDoNotSort() - card=[name=Lord of the Arena id=76 zone=PLAY zonePos=1 cardId=CS2_162 player=2] on=False
+D 23:50:10.7738164 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=53 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:50:11.0241647 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=53 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=False
+D 23:50:11.9732638 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=49 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:50:51.6235047 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Fireball id=49 zone=GRAVEYARD zonePos=0 cardId=CS2_029 player=2] enable=False
+D 23:50:51.6305026 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=52 cardId= type=INVALID zone=HAND zonePos=4 player=2] enable=True
+D 23:51:08.5890420 Card.SetDoNotSort() - card=[name=Booty Bay Bodyguard id=53 zone=PLAY zonePos=2 cardId=CS2_187 player=2] on=True
+D 23:51:08.7398344 Card.SetDoNotSort() - card=[name=Booty Bay Bodyguard id=53 zone=PLAY zonePos=2 cardId=CS2_187 player=2] on=False
+D 23:51:13.6061749 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Frostbolt id=52 zone=GRAVEYARD zonePos=0 cardId=CS2_024 player=2] enable=False
+D 23:51:13.6141755 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=54 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:51:14.1158269 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Boulderfist Ogre id=54 zone=PLAY zonePos=3 cardId=CS2_200 player=2] enable=False
+D 23:51:49.7385443 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=54 zone=PLAY zonePos=2 cardId=CS2_200 player=2] on=True
+D 23:51:49.8925537 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=54 zone=PLAY zonePos=2 cardId=CS2_200 player=2] on=False
+D 23:51:57.8057743 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=63 cardId= type=INVALID zone=HAND zonePos=3 player=2] enable=True
+D 23:51:58.4513604 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=3 cardId=CS2_179 player=2] enable=False
+D 23:51:59.1545641 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=43 cardId= type=INVALID zone=HAND zonePos=2 player=2] enable=True
+D 23:51:59.6266201 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=43 cardId= type=INVALID zone=HAND zonePos=2 player=2] enable=False
+D 23:52:45.5206050 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=True
+D 23:52:45.6716115 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=False
+D 23:52:47.5517191 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=57 cardId= type=INVALID zone=HAND zonePos=1 player=2] enable=True
+D 23:52:53.7009105 Card.SetDoNotSort() - card=[name=Chillwind Yeti id=43 zone=PLAY zonePos=3 cardId=CS2_182 player=2] on=True
+D 23:52:53.8400468 Card.SetDoNotSort() - card=[name=Chillwind Yeti id=43 zone=PLAY zonePos=3 cardId=CS2_182 player=2] on=False
+D 23:53:27.7871208 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Pyroblast id=57 zone=GRAVEYARD zonePos=0 cardId=EX1_279 player=2] enable=False
+D 23:53:27.7941428 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=60 cardId= type=INVALID zone=HAND zonePos=2 player=2] enable=True
+D 23:53:28.1611414 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Mirror Image id=60 zone=PLAY zonePos=2 cardId=CS2_027 player=2] enable=False
+D 23:53:28.8374528 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=55 cardId= type=INVALID zone=HAND zonePos=1 player=2] enable=True
+D 23:53:29.7714101 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=55 cardId= type=INVALID zone=HAND zonePos=1 player=2] enable=False
+D 23:53:43.4359546 Card.SetDoNotSort() - card=[name=Chillwind Yeti id=43 zone=PLAY zonePos=4 cardId=CS2_182 player=2] on=True
+D 23:53:43.5879017 Card.SetDoNotSort() - card=[name=Chillwind Yeti id=43 zone=PLAY zonePos=4 cardId=CS2_182 player=2] on=False
+D 23:53:53.0697670 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=3 cardId=CS2_179 player=2] on=True
+D 23:53:53.2201962 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=3 cardId=CS2_179 player=2] on=False
+D 23:54:22.3293567 Card.SetDoNotSort() - card=[name=Frog id=77 zone=PLAY zonePos=2 cardId=hexfrog player=2] on=True
+D 23:54:22.4695245 Card.SetDoNotSort() - card=[name=Frog id=77 zone=PLAY zonePos=2 cardId=hexfrog player=2] on=False
+D 23:54:31.7518400 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=38 cardId= type=INVALID zone=HAND zonePos=1 player=2] enable=True
+D 23:54:32.7866444 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Sea Giant id=38 zone=PLAY zonePos=1 cardId=EX1_586 player=2] enable=False
+D 23:54:43.6195118 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=True
+D 23:54:43.7710771 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=False
+D 23:54:45.2525573 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=55 zone=PLAY zonePos=1 cardId=CS2_200 player=2] on=True
+D 23:54:45.4037081 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=55 zone=PLAY zonePos=1 cardId=CS2_200 player=2] on=False
+D 23:55:10.5209206 Card.SetDoNotSort() - card=[name=Mirror Image id=83 zone=PLAY zonePos=3 cardId=CS2_mirror player=2] on=True
+D 23:55:10.6696235 Card.SetDoNotSort() - card=[name=Mirror Image id=83 zone=PLAY zonePos=3 cardId=CS2_mirror player=2] on=False
+D 23:55:13.3359789 Card.SetDoNotSort() - card=[name=Mirror Image id=83 zone=PLAY zonePos=3 cardId=CS2_mirror player=2] on=True
+D 23:55:13.4851418 Card.SetDoNotSort() - card=[name=Mirror Image id=83 zone=PLAY zonePos=3 cardId=CS2_mirror player=2] on=False
+D 23:55:27.0004040 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=50 cardId= type=INVALID zone=HAND zonePos=1 player=2] enable=True
+D 23:55:33.1017636 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=True
+D 23:55:33.2518955 Card.SetDoNotSort() - card=[name=Sen'jin Shieldmasta id=63 zone=PLAY zonePos=2 cardId=CS2_179 player=2] on=False
+D 23:55:34.7690343 Card.SetDoNotSort() - card=[name=Sea Giant id=38 zone=PLAY zonePos=4 cardId=EX1_586 player=2] on=True
+D 23:55:34.9290417 Card.SetDoNotSort() - card=[name=Sea Giant id=38 zone=PLAY zonePos=4 cardId=EX1_586 player=2] on=False
+D 23:55:36.0517684 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=55 zone=PLAY zonePos=1 cardId=CS2_200 player=2] on=True
+D 23:55:36.2018299 Card.SetDoNotSort() - card=[name=Boulderfist Ogre id=55 zone=PLAY zonePos=1 cardId=CS2_200 player=2] on=False
+D 23:58:15.3638015 Card.SetDoNotSort() - card=[id=14 cardId= type=INVALID zone=DECK zonePos=0 player=1] on=False
+D 23:58:18.7781682 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=24 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 23:58:19.0971844 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=24 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=False
+D 23:58:37.5043105 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 23:58:37.6480717 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 23:59:17.1104081 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=70 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 23:59:17.2649048 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=70 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 23:59:33.5793618 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=16 cardId= type=INVALID zone=HAND zonePos=2 player=1] enable=True
+D 23:59:35.4465588 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=16 cardId= type=INVALID zone=HAND zonePos=2 player=1] enable=False
+D 00:00:19.9622302 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=9 cardId= type=INVALID zone=HAND zonePos=4 player=1] enable=True
+D 00:00:20.2291113 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=9 cardId= type=INVALID zone=HAND zonePos=4 player=1] enable=False
+D 00:00:24.4293269 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=13 cardId= type=INVALID zone=HAND zonePos=2 player=1] enable=True
+D 00:00:31.6460196 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=16 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=True
+D 00:00:31.7986033 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=16 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=False
+D 00:01:10.9269346 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Blessing of Might id=13 zone=GRAVEYARD zonePos=0 cardId=CS2_087 player=1] enable=False
+D 00:01:10.9339859 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=32 cardId= type=INVALID zone=HAND zonePos=3 player=1] enable=True
+D 00:01:15.9451040 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Hammer of Wrath id=32 zone=PLAY zonePos=0 cardId=CS2_094 player=1] enable=False
+D 00:01:16.6952826 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=21 cardId= type=INVALID zone=HAND zonePos=4 player=1] enable=False
+D 00:01:21.4451291 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:01:22.4782326 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:01:24.2621053 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=74 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=True
+D 00:01:24.4115181 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=74 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=False
+D 00:01:35.2663483 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=74 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=True
+D 00:01:35.4128444 Card.SetDoNotSort() - card=[name=Razorfen Hunter id=74 zone=PLAY zonePos=1 cardId=CS2_196 player=1] on=False
+D 00:01:43.0411816 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:01:43.0791316 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:02:07.5766827 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:02:08.6105792 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:02:11.7269021 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=10 cardId= type=INVALID zone=HAND zonePos=4 player=1] enable=True
+D 00:02:12.4778878 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Murloc Tidehunter id=10 zone=PLAY zonePos=4 cardId=EX1_506 player=1] enable=False
+D 00:02:13.2772863 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=12 cardId= type=INVALID zone=HAND zonePos=3 player=1] enable=True
+D 00:02:13.8273059 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=12 cardId= type=INVALID zone=HAND zonePos=3 player=1] enable=False
+D 00:02:52.0597057 Card.SetDoNotSort() - card=[name=Murloc Tidehunter id=10 zone=PLAY zonePos=1 cardId=EX1_506 player=1] on=True
+D 00:02:52.2111865 Card.SetDoNotSort() - card=[name=Murloc Tidehunter id=10 zone=PLAY zonePos=1 cardId=EX1_506 player=1] on=False
+D 00:02:54.2440498 Card.SetDoNotSort() - card=[name=Murloc Scout id=76 zone=PLAY zonePos=1 cardId=EX1_506a player=1] on=True
+D 00:02:54.3950984 Card.SetDoNotSort() - card=[name=Murloc Scout id=76 zone=PLAY zonePos=1 cardId=EX1_506a player=1] on=False
+D 00:02:54.5773562 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=19 cardId= type=INVALID zone=HAND zonePos=3 player=1] enable=True
+D 00:02:55.2494973 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=19 cardId= type=INVALID zone=HAND zonePos=3 player=1] enable=False
+D 00:03:04.7929729 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:03:06.1497263 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:03:08.9102021 Card.SetDoNotSort() - card=[name=Raid Leader id=12 zone=PLAY zonePos=1 cardId=CS2_122 player=1] on=True
+D 00:03:09.0602352 Card.SetDoNotSort() - card=[name=Raid Leader id=12 zone=PLAY zonePos=1 cardId=CS2_122 player=1] on=False
+D 00:03:40.6600214 Card.SetDoNotSort() - card=[name=Raid Leader id=12 zone=PLAY zonePos=1 cardId=CS2_122 player=1] on=True
+D 00:03:40.8140297 Card.SetDoNotSort() - card=[name=Raid Leader id=12 zone=PLAY zonePos=1 cardId=CS2_122 player=1] on=False
+D 00:03:54.6087257 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=18 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 00:04:08.2421343 Card.SetDoNotSort() - card=[name=Murloc Raider id=19 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=True
+D 00:04:08.3921401 Card.SetDoNotSort() - card=[name=Murloc Raider id=19 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=False
+D 00:04:13.4452645 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=2 cardId=CS2_101t player=1] on=True
+D 00:04:13.5919879 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=2 cardId=CS2_101t player=1] on=False
+D 00:04:15.6426389 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:04:16.6751294 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:04:39.0030451 Card.SetDoNotSort() - card=[name=Murloc Raider id=19 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=True
+D 00:04:39.1421947 Card.SetDoNotSort() - card=[name=Murloc Raider id=19 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=False
+D 00:04:54.8075426 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Humility id=18 zone=GRAVEYARD zonePos=0 cardId=EX1_360 player=1] enable=False
+D 00:05:01.9098504 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=33 cardId= type=INVALID zone=HAND zonePos=2 player=1] enable=True
+D 00:05:10.9912355 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 00:05:11.1418622 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 00:05:12.4902081 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=84 zone=PLAY zonePos=2 cardId=CS2_101t player=1] on=True
+D 00:05:12.6416160 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=84 zone=PLAY zonePos=2 cardId=CS2_101t player=1] on=False
+D 00:05:29.1657805 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:05:29.3083659 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:05:39.2241192 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Hammer of Wrath id=33 zone=GRAVEYARD zonePos=0 cardId=CS2_094 player=1] enable=False
+D 00:05:40.2210669 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=31 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 00:05:46.3404317 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Holy Light id=31 zone=PLAY zonePos=0 cardId=CS2_089 player=1] enable=False
+D 00:05:50.3603187 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=15 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 00:05:50.9204877 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=15 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=False
+D 00:06:01.3569155 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=3 cardId=CS2_101t player=1] on=True
+D 00:06:01.5080672 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=80 zone=PLAY zonePos=3 cardId=CS2_101t player=1] on=False
+D 00:06:03.0068868 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=84 zone=PLAY zonePos=3 cardId=CS2_101t player=1] on=True
+D 00:06:03.1576250 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=84 zone=PLAY zonePos=3 cardId=CS2_101t player=1] on=False
+D 00:06:25.3302227 Card.SetDoNotSort() - card=[name=Novice Engineer id=26 zone=PLAY zonePos=2 cardId=EX1_015 player=1] on=True
+D 00:06:25.4742846 Card.SetDoNotSort() - card=[name=Novice Engineer id=26 zone=PLAY zonePos=2 cardId=EX1_015 player=1] on=False
+D 00:06:32.8269319 Card.SetDoNotSort() - card=[name=Murloc Raider id=7 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=True
+D 00:06:32.9746825 Card.SetDoNotSort() - card=[name=Murloc Raider id=7 zone=PLAY zonePos=1 cardId=CS2_168 player=1] on=False
+D 00:07:10.7055428 Card.SetDoNotSort() - card=[name=Novice Engineer id=25 zone=PLAY zonePos=1 cardId=EX1_015 player=1] on=True
+D 00:07:10.8565357 Card.SetDoNotSort() - card=[name=Novice Engineer id=25 zone=PLAY zonePos=1 cardId=EX1_015 player=1] on=False
+D 00:07:16.1716816 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=85 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 00:07:16.3225923 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=85 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 00:07:34.3969772 Card.SetDoNotSort() - card=[name=Raid Leader id=35 zone=PLAY zonePos=2 cardId=CS2_122 player=1] on=True
+D 00:07:34.5391246 Card.SetDoNotSort() - card=[name=Raid Leader id=35 zone=PLAY zonePos=2 cardId=CS2_122 player=1] on=False
+D 00:07:41.6443330 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:07:41.7887938 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:07:54.7709911 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=27 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 00:07:55.6365386 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Guardian of Kings id=27 zone=PLAY zonePos=1 cardId=CS2_088 player=1] enable=False
+D 00:08:16.0210539 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=86 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 00:08:16.1708885 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=86 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 00:08:30.2931122 Card.SetDoNotSort() - card=[name=Guardian of Kings id=27 zone=PLAY zonePos=1 cardId=CS2_088 player=1] on=True
+D 00:08:30.4387268 Card.SetDoNotSort() - card=[name=Guardian of Kings id=27 zone=PLAY zonePos=1 cardId=CS2_088 player=1] on=False
+D 00:08:34.4885094 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=94 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 00:08:34.6385196 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=94 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 00:08:37.1829954 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:08:37.3207027 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:09:11.0899516 Card.SetDoNotSort() - card=[name=Defender id=97 zone=PLAY zonePos=1 cardId=EX1_130a player=1] on=True
+D 00:09:11.2373072 Card.SetDoNotSort() - card=[name=Defender id=97 zone=PLAY zonePos=1 cardId=EX1_130a player=1] on=False
+D 00:09:15.2924313 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:09:15.4370574 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:09:39.7895742 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=98 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=True
+D 00:09:39.9375829 Card.SetDoNotSort() - card=[name=Silver Hand Recruit id=98 zone=PLAY zonePos=1 cardId=CS2_101t player=1] on=False
+D 00:09:41.8002571 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:09:41.9372649 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:09:44.0782078 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:09:44.2193325 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
+D 00:09:49.4519779 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=30 cardId= type=INVALID zone=HAND zonePos=2 player=1] enable=True
+D 00:09:50.1590306 Card.MarkAsGrabbedByEnemyActionHandler() - card=[name=Consecration id=30 zone=PLAY zonePos=2 cardId=CS2_093 player=1] enable=False
+D 00:09:55.0195010 Card.MarkAsGrabbedByEnemyActionHandler() - card=[id=17 cardId= type=INVALID zone=HAND zonePos=1 player=1] enable=True
+D 00:10:19.8637908 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=True
+D 00:10:19.8977387 Card.SetDoNotSort() - card=[name=Uther Lightbringer id=4 zone=PLAY zonePos=0 cardId=HERO_04 player=1] on=False
