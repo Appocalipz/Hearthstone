@@ -1,14 +1,74 @@
 ﻿html {
-	overflow: hidden;
-	height: 100%;
-	width: 100%;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
 }
-
-@font-face { 
+.card-collections-current-decks {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 836px;
+  height: 600px;
+  border-radius: 9px;
+  box-shadow: 0 0 10px #000;
+  border: 1px solid #8E8470;
+  background-image: url("../images/background/3.jpg");
+  display:none;
+}
+.card-collections {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 836px;
+  height: 600px;
+  border-radius: 9px;
+  box-shadow: 0 0 10px #000;
+  border: 1px solid #8E8470;
+  background-image: url("../images/background/3.jpg");
+  display:none;
+}
+.page-to-left {
+  position: absolute;
+  height: 100%;
+  width: 33px;
+  left:0;
+  cursor: e-resize;
+}
+.page-to-right {
+  position: absolute;
+  height: 100%;
+  width: 33px;
+  right:0;
+  cursor: e-resize;
+}
+img.game-logo {
+  position: absolute;
+  left: 275px;
+  top: -60px;
+  width: 269px;
+}
+img.big-card {
+  width: 192px;
+}
+.hearthstone-cards {
+  margin-left: 25px;
+}
+input.cardSearch {
+  position: absolute;
+  left: 50%;
+  bottom: -20px;
+  height: 30px;
+  width: 200px;
+  margin-left: -100px;
+  background-color: rgb(11, 11, 11);
+  border: 1px solid #8E8470;
+  color: white;
+  text-align: center;
+}
+@font-face {
   font-family: Delicious; 
-  src: url('assets/font/1553.ttf'); 
+  src: url('../fonts/1553.ttf');
 } 
-
 .card {
   width:200px;
 }
@@ -34,7 +94,6 @@
   margin-left: -450px;
   text-align: center;
 }
-
 .container-min-1 {
   float: right;
   position: relative;
@@ -138,3 +197,159 @@ img.frame-right-min {
 .hand-deck-container {
   margin-top: 6px;
 }
+.cards-in-deck-2{
+  position: absolute;
+  right: 3px;
+  z-index: 999;
+  top: 6px;
+}
+.login-panel {
+  display:none;
+  position: absolute;
+  top:200px;
+  left:200px;
+  width: 325px;
+  height: 238px;
+  background-image: url("../images/main/LoginBox.png");
+}
+img.login-game-logo {
+  position: absolute;
+  left: 28px;
+  top: -60px;
+  width: 269px;
+}
+.login-title-username {
+  position: absolute;
+  left: 55px;
+  top: 85px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 100;
+  text-shadow: 0px 0px 1px black;
+}
+.login-title-password {
+  position: absolute;
+  left: 55px;
+  top: 115px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 100;
+  text-shadow: 0px 0px 1px black;
+}
+input.box-title-username {
+  position: absolute;
+  left: 172px;
+  top: 87px;
+  color: rgb(255, 255, 255);
+  width: 113px;
+  border-radius: 4px;
+  background-color: rgb(99, 40, 163);
+  border: 1px solid black;
+}
+input.box-title-password {
+  position: absolute;
+  left: 172px;
+  top: 116px;
+  color: rgb(255, 255, 255);
+  width: 113px;
+  border-radius: 4px;
+  background-color: rgb(99, 40, 163);
+  border: 1px solid black;
+}
+button.login-button {
+  position: absolute;
+  left: 54px;
+  top: 178px;
+  color: rgb(255, 255, 255);
+  width: 230px;
+  border-radius: 4px;
+  background-color: rgb(156, 114, 202);
+  border: 1px solid black;
+}
+.main-panel {
+  position: absolute;
+  width: 100px;
+  height: 107px;
+  background-image: url('../images/skin/Hearthstone Backs.png');
+  background-size: 136px;
+  background-position: -18px -15px;
+  background-repeat: no-repeat;
+  left: -68px;
+  top: 50%;
+  margin-top: -91px;
+}
+.main-panel:hover {
+  cursor: pointer;
+}
+.main-panel-Settings {
+  display:none;
+  opacity:0;
+  position: absolute;
+  left: 14px;
+  top: -60px;
+  background-image: url("../images/skin/Settings.png");
+  width: 55px;
+  height: 37px;
+}
+.main-panel-Information {
+  display:none;
+  opacity:0;
+  position: absolute;
+  left: 99px;
+  top: -50px;
+  background-image: url("../images/skin/Information.png");
+  width: 70px;
+  height: 70px;
+  background-size: 70px;
+}
+.main-panel-OpenPacks {
+  display:none;
+  opacity:0;
+  position: absolute;
+  left: 114px;
+  top: 49px;
+  background-image: url("../images/skin/OpenPacks.png");
+  width: 51px;
+  height: 52px;
+  background-size: 50px;
+  border-radius: 0px;
+}
+.main-panel-MyCollection {
+  display:none;
+  opacity:0;
+  position: absolute;
+  left: -1px;
+  top: 129px;
+  background-image: url("../images/skin/MyCollection.png");
+  width: 137px;
+  height: 49px;
+  background-size: 138px;
+}
+.main-panel-Back {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.01);
+  width: 173px;
+  height: 245px;
+  left: 0px;
+  top: -64px;
+}
+.card-collections-current-decks-list {
+  position: absolute;
+  right: -178px;
+  top: 0;
+  width: 174px;
+  height: 600px;
+  background-image: url("../images/skin/CurrentDecks.png");
+  background-size: 100%;
+}
+.card-collections-new-deck {
+  position: absolute;
+  left: 16px;
+  top: 25px;
+  background-image: url("../images/skin/NewDeckButton.png");
+  background-size: 100%;
+  width: 148px;
+  height: 58px;
+}
+
+

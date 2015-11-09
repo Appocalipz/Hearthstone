@@ -22,42 +22,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Log.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Libraries/Log.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Api.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Libraries/Api.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2222223">
-              <caret line="13" column="64" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.077120826">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33406115">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogAchievements.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Libraries/LogAchievements.cs">
+      <file leaf-file-name="hearthstone.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/css/hearthstone.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
+              <caret line="334" column="1" selection-start-line="334" selection-start-column="1" selection-end-line="334" selection-end-column="1" />
+              <folding>
+                <element signature="e#5#59#0" expanded="false" />
+                <element signature="e#347#583#0" expanded="false" />
+                <element signature="e#598#684#0" expanded="false" />
+                <element signature="e#700#787#0" expanded="false" />
+                <element signature="e#802#872#0" expanded="false" />
+                <element signature="e#886#905#0" expanded="false" />
+                <element signature="e#925#949#0" expanded="false" />
+                <element signature="e#967#1181#0" expanded="false" />
+                <element signature="e#1193#1256#0" expanded="false" />
+                <element signature="e#1264#1282#0" expanded="false" />
+                <element signature="e#1293#1311#0" expanded="false" />
+                <element signature="e#1323#1341#0" expanded="false" />
+                <element signature="e#1357#1473#0" expanded="false" />
+                <element signature="e#1489#1602#0" expanded="false" />
+                <element signature="e#1620#1730#0" expanded="false" />
+                <element signature="e#1748#1858#0" expanded="false" />
+                <element signature="e#1873#1939#0" expanded="false" />
+                <element signature="e#1953#2035#0" expanded="false" />
+                <element signature="e#2048#2261#0" expanded="false" />
+                <element signature="e#2273#2487#0" expanded="false" />
+                <element signature="e#2508#2591#0" expanded="false" />
+                <element signature="e#2611#2645#0" expanded="false" />
+                <element signature="e#2665#2700#0" expanded="false" />
+                <element signature="e#2720#2861#0" expanded="false" />
+                <element signature="e#2881#3024#0" expanded="false" />
+                <element signature="e#3046#3084#0" expanded="false" />
+                <element signature="e#3106#3145#0" expanded="false" />
+                <element signature="e#3167#3185#0" expanded="false" />
+                <element signature="e#3207#3267#0" expanded="false" />
+                <element signature="e#3289#3311#0" expanded="false" />
+                <element signature="e#3328#3395#0" expanded="false" />
+                <element signature="e#3409#3566#0" expanded="false" />
+                <element signature="e#3587#3656#0" expanded="false" />
+                <element signature="e#3679#3833#0" expanded="false" />
+                <element signature="e#3856#4011#0" expanded="false" />
+                <element signature="e#4037#4222#0" expanded="false" />
+                <element signature="e#4248#4434#0" expanded="false" />
+                <element signature="e#4455#4642#0" expanded="false" />
+                <element signature="e#4655#4920#0" expanded="false" />
+                <element signature="e#4939#4961#0" expanded="false" />
+                <element signature="e#4983#5152#0" expanded="false" />
+                <element signature="e#5177#5374#0" expanded="false" />
+                <element signature="e#5397#5614#0" expanded="false" />
+                <element signature="e#5640#5840#0" expanded="false" />
+                <element signature="e#5858#5990#0" expanded="false" />
+                <element signature="e#6028#6198#0" expanded="false" />
+                <element signature="e#6226#6396#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,20 +104,34 @@
         <option value="$PROJECT_DIR$/run.bat" />
         <option value="$PROJECT_DIR$/Libraries/power_log.cs" />
         <option value="$PROJECT_DIR$/Libraries/log_parse.cs" />
-        <option value="$PROJECT_DIR$/main.cs" />
         <option value="$PROJECT_DIR$/Libraries/log.cs" />
         <option value="$PROJECT_DIR$/Libraries/log_power.cs" />
-        <option value="$PROJECT_DIR$/Libraries/compile_libs.bat" />
         <option value="$PROJECT_DIR$/compile.bat" />
         <option value="$PROJECT_DIR$/Libraries/LogPower.cs" />
-        <option value="$PROJECT_DIR$/Libraries/LogAsset.cs" />
         <option value="$PROJECT_DIR$/FileSystem/Logs/JMac.log" />
         <option value="$PROJECT_DIR$/Libraries/LogFaceDownCard.cs" />
         <option value="$PROJECT_DIR$/Libraries/LogZone.cs" />
-        <option value="$PROJECT_DIR$/Libraries/Log.cs" />
         <option value="$PROJECT_DIR$/Libraries/OutputLog.cs" />
         <option value="$PROJECT_DIR$/Libraries/Api.cs" />
         <option value="$PROJECT_DIR$/Libraries/LogAchievements.cs" />
+        <option value="$PROJECT_DIR$/Libraries/Log.cs" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/index.html" />
+        <option value="W:/sample app/index.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/index.html" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/index2.html" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/api/log.api.js" />
+        <option value="$PROJECT_DIR$/sample app/index.html" />
+        <option value="$PROJECT_DIR$/Libraries/LogAsset.cs" />
+        <option value="$PROJECT_DIR$/Libraries/compile_libs.bat" />
+        <option value="$PROJECT_DIR$/main.cs" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/overwolf.js" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/filesystem.js" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/manifest.json" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/index 2.php" />
+        <option value="$PROJECT_DIR$/Overwolf Frontend/Files/assets/css/hearthstone.css" />
         <option value="$PROJECT_DIR$/Overwolf Frontend/index.html" />
       </list>
     </option>
@@ -106,8 +148,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="718" />
+    <option name="y" value="140" />
+    <option name="width" value="740" />
+    <option name="height" value="621" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -132,9 +176,17 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Overwolf Project" />
+              <option name="myItemId" value="Hearthstone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -159,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Overwolf Project" />
+              <option name="myItemId" value="Hearthstone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -173,15 +225,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Overwolf Project" />
+              <option name="myItemId" value="Hearthstone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
+              <option name="myItemId" value="Overwolf Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C# Compiler Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hearthstone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Overwolf Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C# Compiler Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hearthstone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Overwolf Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C# Compiler Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hearthstone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Overwolf Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -193,12 +330,21 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Libraries" />
+      <recent name="W:\Hearthstone\Overwolf Frontend\Files\assets\images\skin" />
+      <recent name="W:\Hearthstone\Overwolf Frontend\Files\assets\images\main" />
+      <recent name="W:\Hearthstone\Overwolf Frontend" />
+      <recent name="W:\Hearthstone\Backups\Libraries" />
+      <recent name="W:\Hearthstone\Overwolf Frontend\Files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\Hearthstone\Overwolf Frontend" />
+      <recent name="W:\Hearthstone\Overwolf Frontend\Files" />
     </key>
   </component>
   <component name="RunManager">
@@ -271,15 +417,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="C# Compiler Server" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -479,19 +624,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -527,14 +659,13 @@
   <component name="SbtLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../fings_universe" value="1441025882872" />
-        <entry key="$PROJECT_DIR$/../standard_seed_custom_libs" value="1440713441062" />
         <entry key="C:/WampDeveloper/Websites/all.apps/fings.backend" value="1437321370664" />
         <entry key="W:/Fullfacing Projects/standard_seed_custom_libs" value="1440434487883" />
         <entry key="W:/fings_universe" value="1439123171285" />
         <entry key="W:/fings_universe_new_version_back" value="1439394138483" />
         <entry key="W:/fings_universe_old_version_back" value="1439429485055" />
         <entry key="W:/fullfacingProjects/FrontEnd_Fings" value="1441228379191" />
+        <entry key="W:/standard_seed_custom_libs" value="1440713441062" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -556,41 +687,49 @@
       <workItem from="1444335032765" duration="9524000" />
       <workItem from="1445418203779" duration="4114000" />
       <workItem from="1445423619940" duration="2548000" />
+      <workItem from="1446051841557" duration="12030000" />
+      <workItem from="1446069803126" duration="41000" />
+      <workItem from="1446070069317" duration="12823000" />
+      <workItem from="1446123728562" duration="6582000" />
+      <workItem from="1446259279435" duration="6302000" />
+      <workItem from="1446571749749" duration="3265000" />
+      <workItem from="1446586531519" duration="5514000" />
+      <workItem from="1447013871243" duration="8076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27064000" />
+    <option name="totallyTimeSpent" value="81697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="718" y="140" width="740" height="621" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5629139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296501" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27038628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5629139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23895028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -613,10 +752,233 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Libraries/Log.cs">
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/css/hearthstone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#5#59#0" expanded="false" />
+            <element signature="e#347#583#0" expanded="false" />
+            <element signature="e#598#684#0" expanded="false" />
+            <element signature="e#700#787#0" expanded="false" />
+            <element signature="e#802#872#0" expanded="false" />
+            <element signature="e#886#905#0" expanded="false" />
+            <element signature="e#925#949#0" expanded="false" />
+            <element signature="e#967#1181#0" expanded="false" />
+            <element signature="e#1193#1256#0" expanded="false" />
+            <element signature="e#1264#1282#0" expanded="false" />
+            <element signature="e#1293#1311#0" expanded="false" />
+            <element signature="e#1323#1341#0" expanded="false" />
+            <element signature="e#1357#1473#0" expanded="false" />
+            <element signature="e#1489#1602#0" expanded="false" />
+            <element signature="e#1620#1730#0" expanded="false" />
+            <element signature="e#1748#1858#0" expanded="false" />
+            <element signature="e#1873#1939#0" expanded="false" />
+            <element signature="e#1953#2035#0" expanded="false" />
+            <element signature="e#2048#2261#0" expanded="false" />
+            <element signature="e#2273#2487#0" expanded="false" />
+            <element signature="e#2508#2591#0" expanded="false" />
+            <element signature="e#2611#2645#0" expanded="false" />
+            <element signature="e#2665#2700#0" expanded="false" />
+            <element signature="e#2720#2861#0" expanded="false" />
+            <element signature="e#2881#3024#0" expanded="false" />
+            <element signature="e#3046#3084#0" expanded="false" />
+            <element signature="e#3106#3145#0" expanded="false" />
+            <element signature="e#3167#3185#0" expanded="false" />
+            <element signature="e#3207#3267#0" expanded="false" />
+            <element signature="e#3289#3311#0" expanded="false" />
+            <element signature="e#3328#3395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/css/hearthstone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#5#59#0" expanded="false" />
+            <element signature="e#347#583#0" expanded="false" />
+            <element signature="e#598#684#0" expanded="false" />
+            <element signature="e#700#787#0" expanded="false" />
+            <element signature="e#802#872#0" expanded="false" />
+            <element signature="e#886#905#0" expanded="false" />
+            <element signature="e#925#949#0" expanded="false" />
+            <element signature="e#967#1181#0" expanded="false" />
+            <element signature="e#1193#1256#0" expanded="false" />
+            <element signature="e#1264#1282#0" expanded="false" />
+            <element signature="e#1293#1311#0" expanded="false" />
+            <element signature="e#1323#1341#0" expanded="false" />
+            <element signature="e#1357#1473#0" expanded="false" />
+            <element signature="e#1489#1602#0" expanded="false" />
+            <element signature="e#1620#1730#0" expanded="false" />
+            <element signature="e#1748#1858#0" expanded="false" />
+            <element signature="e#1873#1939#0" expanded="false" />
+            <element signature="e#1953#2035#0" expanded="false" />
+            <element signature="e#2048#2261#0" expanded="false" />
+            <element signature="e#2273#2487#0" expanded="false" />
+            <element signature="e#2508#2591#0" expanded="false" />
+            <element signature="e#2611#2645#0" expanded="false" />
+            <element signature="e#2665#2700#0" expanded="false" />
+            <element signature="e#2720#2861#0" expanded="false" />
+            <element signature="e#2881#3024#0" expanded="false" />
+            <element signature="e#3046#3084#0" expanded="false" />
+            <element signature="e#3106#3145#0" expanded="false" />
+            <element signature="e#3167#3185#0" expanded="false" />
+            <element signature="e#3207#3267#0" expanded="false" />
+            <element signature="e#3289#3311#0" expanded="false" />
+            <element signature="e#3328#3395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/systemIO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/filesystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="65" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/overwolf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -628,41 +990,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/Log.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogPower.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/Log.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37313432">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -673,131 +1004,251 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogPower.cs">
+    <entry file="file://$PROJECT_DIR$/Backups/main.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.295511">
-          <caret line="497" column="0" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processed/Power.log">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+    <entry file="file://$PROJECT_DIR$/Backups/Libraries/Api.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56398106">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://W:/sample app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6445498">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/npSimpleIOPlugin.dll">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12592593">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileSystem/Latest Card Sets.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5994898">
+          <caret line="0" column="617643" selection-start-line="0" selection-start-column="617572" selection-end-line="0" selection-end-column="617643" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/IconMouseOver.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34182304">
-          <caret line="129" column="129" selection-start-line="129" selection-start-column="129" selection-end-line="129" selection-end-column="129" />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/Power.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019354839">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/Achievements.log">
+    <entry file="file://$PROJECT_DIR$/compile.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="363" column="64" selection-start-line="363" selection-start-column="64" selection-end-line="363" selection-end-column="64" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogAsset.cs">
+    <entry file="file://$PROJECT_DIR$/Backups/Libraries/Libraries/Log.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="95" selection-start-line="41" selection-start-column="95" selection-end-line="42" selection-end-column="83" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/Asset.log">
+    <entry file="file://$PROJECT_DIR$/Libraries/compile_libs.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.761005">
-          <caret line="1177" column="61" selection-start-line="1177" selection-start-column="61" selection-end-line="1177" selection-end-column="61" />
-          <folding />
+        <state vertical-scroll-proportion="0.06938776">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/FaceDownCard.log">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18240343">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/systemIO.dll">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="165" column="57" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="57" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/systemIO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="18" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/Hand.log">
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/overwolf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3656716">
+        <state vertical-scroll-proportion="-7.5555553">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/filesystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3342071">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/log.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06422018">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/core.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileSystem/Logs/Zone.log">
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3616352">
-          <caret line="23" column="106" selection-start-line="23" selection-start-column="106" selection-end-line="23" selection-end-column="106" />
+        <state vertical-scroll-proportion="0.3541384">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogFaceDownCard.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31716418">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogZone.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63432837">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/OutputLog.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20522387">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/Log.cs">
+    <entry file="file://$PROJECT_DIR$/main.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/LogAchievements.cs">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/Api.cs">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/index 2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2222223">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74233127">
+          <caret line="4" column="31671" selection-start-line="4" selection-start-column="31597" selection-end-line="4" selection-end-column="31671" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/javascript/hearthstone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42418772">
+          <caret line="231" column="9" selection-start-line="228" selection-start-column="16" selection-end-line="231" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.449827">
+          <caret line="229" column="9" selection-start-line="229" selection-start-column="9" selection-end-line="229" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overwolf Frontend/Files/assets/css/hearthstone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="334" column="1" selection-start-line="334" selection-start-column="1" selection-end-line="334" selection-end-column="1" />
+          <folding>
+            <element signature="e#5#59#0" expanded="false" />
+            <element signature="e#347#583#0" expanded="false" />
+            <element signature="e#598#684#0" expanded="false" />
+            <element signature="e#700#787#0" expanded="false" />
+            <element signature="e#802#872#0" expanded="false" />
+            <element signature="e#886#905#0" expanded="false" />
+            <element signature="e#925#949#0" expanded="false" />
+            <element signature="e#967#1181#0" expanded="false" />
+            <element signature="e#1193#1256#0" expanded="false" />
+            <element signature="e#1264#1282#0" expanded="false" />
+            <element signature="e#1293#1311#0" expanded="false" />
+            <element signature="e#1323#1341#0" expanded="false" />
+            <element signature="e#1357#1473#0" expanded="false" />
+            <element signature="e#1489#1602#0" expanded="false" />
+            <element signature="e#1620#1730#0" expanded="false" />
+            <element signature="e#1748#1858#0" expanded="false" />
+            <element signature="e#1873#1939#0" expanded="false" />
+            <element signature="e#1953#2035#0" expanded="false" />
+            <element signature="e#2048#2261#0" expanded="false" />
+            <element signature="e#2273#2487#0" expanded="false" />
+            <element signature="e#2508#2591#0" expanded="false" />
+            <element signature="e#2611#2645#0" expanded="false" />
+            <element signature="e#2665#2700#0" expanded="false" />
+            <element signature="e#2720#2861#0" expanded="false" />
+            <element signature="e#2881#3024#0" expanded="false" />
+            <element signature="e#3046#3084#0" expanded="false" />
+            <element signature="e#3106#3145#0" expanded="false" />
+            <element signature="e#3167#3185#0" expanded="false" />
+            <element signature="e#3207#3267#0" expanded="false" />
+            <element signature="e#3289#3311#0" expanded="false" />
+            <element signature="e#3328#3395#0" expanded="false" />
+            <element signature="e#3409#3566#0" expanded="false" />
+            <element signature="e#3587#3656#0" expanded="false" />
+            <element signature="e#3679#3833#0" expanded="false" />
+            <element signature="e#3856#4011#0" expanded="false" />
+            <element signature="e#4037#4222#0" expanded="false" />
+            <element signature="e#4248#4434#0" expanded="false" />
+            <element signature="e#4455#4642#0" expanded="false" />
+            <element signature="e#4655#4920#0" expanded="false" />
+            <element signature="e#4939#4961#0" expanded="false" />
+            <element signature="e#4983#5152#0" expanded="false" />
+            <element signature="e#5177#5374#0" expanded="false" />
+            <element signature="e#5397#5614#0" expanded="false" />
+            <element signature="e#5640#5840#0" expanded="false" />
+            <element signature="e#5858#5990#0" expanded="false" />
+            <element signature="e#6028#6198#0" expanded="false" />
+            <element signature="e#6226#6396#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Overwolf Frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.077120826">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33406115">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
           <folding />
         </state>
       </provider>

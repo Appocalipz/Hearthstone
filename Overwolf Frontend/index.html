@@ -1,0 +1,137 @@
+<html>
+  <head>
+    <title>Hearthstone - Deck Tracker</title>
+    <meta name="author" content="Melcom van Eeden">
+    <meta name="description" content="Hearthstone - Deck Tracker">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="stylesheet" href="Files/assets/css/hearthstone.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="Files/assets/javascript/overwolf.js"></script>
+    <script src="Files/assets/javascript/hearthstone.js"></script>
+    <script src="Files/assets/javascript/filesystem.js"></script>
+    <script src="Files/assets/javascript/log.api.js"></script>
+  </head>
+  <body>
+    <embed  id="plugin" type="application/x-simple-io-plugin" width=0px height=0px></embed>
+
+    <!-- Card Collection -->
+    <div class="card-collections">
+        <div class="card-collections-current-decks-list">
+            <div class="card-collections-new-deck">
+            </div>
+        </div>
+        <div class="page-to-left"></div>
+        <div class="page-to-right"></div>
+        <img class="game-logo" src="http://img2.wikia.nocookie.net/__cb20130325031812/wowwiki/images/e/ed/Hearthstone-logo-medium.png">
+        <div class="hearthstone-cards">
+        </div>
+        <input class="cardSearch" type="text" placeholder="Search a card">
+    </div>
+
+    <!-- Login Panel -->
+    <div class="login-panel">
+        <img class="login-game-logo" src="http://img2.wikia.nocookie.net/__cb20130325031812/wowwiki/images/e/ed/Hearthstone-logo-medium.png">
+        <div class="login-title-username">Username: </div>
+        <input type="text" class="box-title-username">
+        <div class="login-title-password">Password: </div>
+        <input type="text" class="box-title-password">
+        <button class="login-button">Login</button>
+    </div>
+
+    <!-- Main Left Panel -->
+    <div class="main-panel">
+        <div class="main-panel-Back"></div>
+        <div class="main-panel-Settings"></div>
+        <div class="main-panel-Information"></div>
+        <div class="main-panel-OpenPacks"></div>
+        <div class="main-panel-MyCollection"></div>
+    </div>
+
+    <script>
+        //Left Panel Dialog
+        overwolf.window.draggable(".card-collections-current-decks");
+        $(".main-panel-MyCollection").click(function() {
+           $(".card-collections").css("display","block");
+        });
+        $(".main-panel").mouseover(function() {
+            $(".main-panel-Settings, .main-panel-Information, .main-panel-OpenPacks, .main-panel-MyCollection").css("display","block").clearQueue().stop().animate({
+                opacity:1
+            }, 1100, function () {});
+            $(".main-panel").clearQueue().stop().animate({
+                left: 0
+            }, 700, function () {});
+        }).mouseout(function() {
+            $(".main-panel-Settings, .main-panel-Information, .main-panel-OpenPacks, .main-panel-MyCollection").clearQueue().stop().animate({
+                opacity:0
+            }, 1100, function () {});
+            $(".main-panel").clearQueue().stop().animate({
+                left: -68
+            }, 700, function () {
+                $(".main-panel-Settings, .main-panel-Information, .main-panel-OpenPacks, .main-panel-MyCollection").css("display","none")
+            });
+        });
+
+
+
+      //Login functionality
+      $.get( "http://gamers-x.co.za/root/mysession", function( data ) {
+         if (data == "" || data.length < 20){
+           $(".login-panel").css("display","block");
+           $(".login-button").click(function() { requestLogin($(".box-title-username").val(), $(".box-title-password").val(), "165489a1sd89a7f489as49843543489r198f4s1df98");
+           });
+         }
+         else
+           $(".login-panel").css("display","none");
+      });
+      function requestLogin (username, password, secret) {
+        $.ajax({
+          url : "http://gamers-x.co.za/root/login",
+          type: "GET",
+          data : { username: username, password: password, secret: secret },
+          success: function(data, textStatus, jqXHR) {
+            if (data == "" || data.length < 20){}
+            else {
+              $(".login-panel").css("display","none");
+              $(".card-collections").css("display","block");
+            }
+          },
+          error: function (jqXHR, textStatus, errorThrown) {}
+        });
+      }
+
+
+      //Global Variables
+      var pageCards = [];
+      var activeCards = [];
+      var totalCardCount = 0;
+      var pageCardsCount = 0;
+      var pageCardCount = 8;
+      var currentPage = 1;
+      var inDeckCards = [];
+      var totalCardsInLinkedDeck = 0;
+      inDeckCards[0] = [];
+
+      navigator.plugins.refresh(false);
+      overwolf.window.draggable(".card-collections");
+      overwolf.window.fullscreen(10);
+      overwolf.io.init();
+      overwolf.hearthstone.init();
+      overwolf.hearthstone.cards.loadAll("Temp/Json/all_cards.json", ".hearthstone-cards");
+      overwolf.hearthstone.click.nextPage(".page-to-right", ".hearthstone-cards");
+      overwolf.hearthstone.click.previousPage(".page-to-left", ".hearthstone-cards");
+      overwolf.hearthstone.key.up(".hearthstone-cards", ".cardSearch");
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

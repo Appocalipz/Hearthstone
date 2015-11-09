@@ -1,0 +1,182 @@
+D 00:50:39.1999264 CachedAsset.UnloadAssetObject() - unloading name=UI_BnetToast family=Sound persistent=True
+D 00:50:39.1999264 CachedAsset.UnloadAssetObject() - unloading name=receive_message family=Sound persistent=True
+D 00:50:39.1999264 CachedAsset.UnloadAssetObject() - unloading name=store_button_mouse_over family=Sound persistent=True
+D 00:50:39.1999264 CachedAsset.UnloadAssetObject() - unloading name=quest_log_button_mouse_over family=Sound persistent=True
+D 00:50:56.0919636 CachedAsset.UnloadAssetObject() - unloading name=Card_Back_Default family=CardBack persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=Belwe_Outline family=FontDef persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=FranklinGothic family=FontDef persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=Belwe family=FontDef persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=BlizzardGlobal family=FontDef persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=SplashScreen family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=LogoImage family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=InnKeepersSpecial family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=SoundConfig family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=MusicConfig family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=AdventureConfig family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=CardColorSwitcher family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=SpecialEventVisualMgr family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=TextInputGUISkin family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=StoreMain family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=StorePackDef_Expert family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=StorePackDef_GvG family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=StorePackDef_TGT family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=PackSelectorButton_Expert family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=PackSelectorButton_GvG family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=PackSelectorButton_TGT family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=WelcomeQuests family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=GameMenu family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=ButtonListMenuDef family=GameObject persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=BaseUI family=Screen persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=OverlayUI family=Screen persistent=False
+D 00:50:56.0929639 CachedAsset.UnloadAssetObject() - unloading name=TheBox family=Screen persistent=False
+D 00:50:56.1882894 CachedAsset.UnloadAssetObject() - unloading name=gold_spend_plate_flip_on family=Sound persistent=True
+D 00:50:56.1882894 CachedAsset.UnloadAssetObject() - unloading name=gold_spend_plate_flip_off family=Sound persistent=True
+D 00:50:56.1882894 CachedAsset.UnloadAssetObject() - unloading name=VO_INNKEEPER_INTRO_01 family=Sound persistent=True
+D 00:50:56.1882894 CachedAsset.UnloadAssetObject() - unloading name=existing_quest_pop_up family=Sound persistent=True
+D 00:50:56.1882894 CachedAsset.UnloadAssetObject() - unloading name=new_quest_pop_up family=Sound persistent=True
+D 00:50:56.1892955 CachedAsset.UnloadAssetObject() - unloading name=new_quest_click_and_shrink family=Sound persistent=True
+D 00:50:56.1892955 CachedAsset.UnloadAssetObject() - unloading name=Small_Mouseover family=Sound persistent=True
+D 00:50:56.1892955 CachedAsset.UnloadAssetObject() - unloading name=Small_Click family=Sound persistent=True
+D 00:51:04.5929715 CachedAsset.UnloadAssetObject() - unloading name=OptionsMenu family=GameObject persistent=False
+D 00:51:09.5256816 AssetLoader.LoadObject() - name was null or empty
+D 00:51:09.5306815 AssetLoader.LoadObject() - name was null or empty
+D 00:51:09.8917049 CachedAsset.UnloadAssetObject() - unloading name=Small_Mouseover family=Sound persistent=True
+D 00:51:09.8917049 CachedAsset.UnloadAssetObject() - unloading name=Small_Click family=Sound persistent=True
+D 00:51:09.8917049 CachedAsset.UnloadAssetObject() - unloading name=UI_MouseClick_01 family=Sound persistent=True
+D 00:51:18.3999391 CachedAsset.UnloadAssetObject() - unloading name=Main_Title family=Sound persistent=True
+D 00:51:18.3999391 CachedAsset.UnloadAssetObject() - unloading name=tavern_wallah loop_medium family=Sound persistent=True
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_169 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_005 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_009 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_160 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_013 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_154 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=AT_038 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=AT_042 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_189 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS1_042 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_508 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_147 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_179 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_583 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_201 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_213 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_162 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_131 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_226 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_399 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_593 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=GVG_079 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=AT_103 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_041 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_244 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_037 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_045 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_039 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_565 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=CS2_053 family=CardPrefab persistent=False
+D 00:51:34.0802010 CachedAsset.UnloadAssetObject() - unloading name=EX1_246 family=CardPrefab persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=DeathKnight family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Druid family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Hunter family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Mage family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Paladin family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Priest family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Rogue family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Shaman family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Warlock family=Texture persistent=False
+D 00:51:34.0822006 CachedAsset.UnloadAssetObject() - unloading name=Warrior family=Texture persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ally_SpellTable family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ability_SpellTable family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Weapon_SpellTable family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=DeckCardBar family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hidden family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hidden_SpellTable family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Hero_Skin family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=DeckInfo family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Play_HeroPower family=Actor persistent=False
+D 00:51:34.0831989 CachedAsset.UnloadAssetObject() - unloading name=Card_Play_HeroPower_Premium family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Weapon family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Weapon_Premium family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ally family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ally_Premium family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ability family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ability_Premium family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Card_Play_HeroPower_SpellTable family=Actor persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=HERO_01 family=CardPrefab persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=HERO_02 family=CardPrefab persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=CS2_049 family=CardPrefab persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/HERO_01/HERO_01_Premium.mat family=CardPremium persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/HERO_02/HERO_02_Premium.mat family=CardPremium persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_049/CS2_049_PremiumCard.mat family=CardPremium persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/HERO_01/Garrosh_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/HERO_02/BlizzCon_2011_Thrall_Final_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_169/WOW_TAL_002_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_005/W2_259_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_009/WOW_ACT_073_BlizzRT_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/01 Expert/EX1_160/W17_a030_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_013/W9_A169_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/01 Expert/EX1_154/W17_a102_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/09 AT/AT_038/HS5-005_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/09 AT/AT_042/W20_a104_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_049/W11_138_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_041/WOW_TRINK_015_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_045/W19_a255_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_189/W10_A109_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS1_042/W2_279_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_508/W16_a185_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_039/W4_137_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/01 Expert/CS2_053/W13_275_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_246/W5_120_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_147/W7_031_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_179/W3_018_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_131/WOW_CHE_027_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_226/W11_084(EA)_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_399/W13_002_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_593/W11_061_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_162/W14_a158_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/01 Expert/EX1_583/W8_130_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_213/Goblinrocket2_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_201/W2_054_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/07 PE1/GVG_079/HS3-039_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/09 AT/AT_103/W16_a176_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_244/W5_128_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/CS2_037/W4_011_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=Assets/Game/Cards/00 Basic/EX1_565/W14_a137_D.psd family=CardTexture persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=CraftingTray family=GameObject persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=CollectionBookCover family=GameObject persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=MassDisenchant family=Screen persistent=False
+D 00:51:34.0841992 CachedAsset.UnloadAssetObject() - unloading name=CollectionManager family=Screen persistent=False
+D 00:51:34.0851989 CachedAsset.UnloadAssetObject() - unloading name=Set1_Icon family=Texture persistent=False
+D 00:51:34.0851989 CachedAsset.UnloadAssetObject() - unloading name=TGTIcon family=Texture persistent=False
+D 00:51:34.0851989 CachedAsset.UnloadAssetObject() - unloading name=GvGIcon family=Texture persistent=False
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=Small_Click family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=Small_Mouseover family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=tiny_button_press_1 family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=tiny_button_mouseover_1 family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=panel_slide_off_deck_creation_screen family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=Card_Transition_Out family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=Card_Transition_In family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_card_add_to_deck_instant family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=class_tab_click family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_book_open family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_card_mouse_over family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_hero_mouse_over family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=tournament_screen_select_hero family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_book_page_flip_forward family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=class_tab_retract family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=class_tab_slides_across_top family=Sound persistent=True
+D 00:51:34.1902714 CachedAsset.UnloadAssetObject() - unloading name=collection_manager_new_deck_moves_up_tray family=Sound persistent=True
+D 00:51:43.2646825 CachedAsset.UnloadAssetObject() - unloading name=CollectionManager_music_2 family=Sound persistent=True
+D 00:51:43.2646825 CachedAsset.UnloadAssetObject() - unloading name=tavern_wallah loop_light family=Sound persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ally_DeathReverse family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ability_DeathReverse family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Weapon_DeathReverse family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ally_GhostCard family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Ability_GhostCard family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Card_Hand_Weapon_GhostCard family=Actor persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=store_button_mouse_over family=Sound persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Small_Mouseover family=Sound persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=quest_log_button_mouse_over family=Sound persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=tavern_wallah loop_medium family=Sound persistent=True
+D 00:54:32.2152840 CachedAsset.UnloadAssetObject() - unloading name=Main_Title family=Sound persistent=True
